@@ -1,11 +1,9 @@
 ### Hi there 👋
-   I am Akash Uday Hulekal pursuing my B.Tech in Mechanical engineering in  Bangalore Institute of Technology expected to complete by 2024 ,I am interested in Full-Stack development , bot development using python and ethical hacking .I am the Web-Service director of Rotract Club of BIT and the web designer for Ham club of BIT .My hobbies are jogging,gaming 
+   I am Kartik v Hegde pursuing my B.sc(cs) in  JSS SMI ug&pg studies Dharwad expected to complete by 2023 ,I am interested in Full-Stack development , bot development using python.My hobbies are jogging,gaming ,reading.
 
 - 🔭 I’m currently working on Rotract Club of BIT application using Flutter
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on Flutter projects
-- 💬 Ask me about ethical hacking repos and my discord bot
-- 📫 How to reach me: akashuhulekal@gmail.com or ak_uh@13 on instagram
+- 📫 How to reach me: kartikhegde.2002@gmail.com or hegde_kartik_ on instagram
 - ⚡ Fun fact: Most of the fun facts floating around are fake
 
 
