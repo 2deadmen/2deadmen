@@ -8,8 +8,7 @@
 
 
 ### Connect with me:
-[<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akash-uday-6a0b52224/)
-[<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.comhegde_kartik_//)
+[<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hegde_kartik_//)
 
 
 <br/>
