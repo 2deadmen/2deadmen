@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akash-uday-6a0b52224/)
-[<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ak_uh13//)
+[<img align="left" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.comhegde_kartik_//)
 
 
 <br/>
@@ -38,7 +38,7 @@
 <br />
 
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashgreninja&hide=prs&count_private=true&show_icons=truee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![2deadmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=2deadmen&hide=prs&count_private=true&show_icons=truee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
@@ -48,5 +48,5 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja)](https://github.com/anuraghazra/github-readme-stats)                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgreninja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2deadmen)](https://github.com/anuraghazra/github-readme-stats)                                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2deadmen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
