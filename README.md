@@ -1,7 +1,6 @@
 ### Hi there 👋
    I am Kartik v Hegde pursuing my B.sc(cs) in  JSS SMI ug&pg studies Dharwad expected to complete by 2023 ,I am interested in Full-Stack development , bot development using python.My hobbies are jogging,gaming ,reading.
 
-- 🔭 I’m currently working on Rotract Club of BIT application using Flutter
 - 🌱 I’m currently learning python
 - 📫 How to reach me: kartikhegde.2002@gmail.com or hegde_kartik_ on instagram
 - ⚡ Fun fact: Most of the fun facts floating around are fake
