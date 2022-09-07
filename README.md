@@ -3,6 +3,7 @@
 
 - 🌱 Python developer
 - 🐱‍🏍 Web developer
+- 🐱‍👤 Learning react
 - 👀 Interested in ML and AI
 - 📫 How to reach me: kartikhegde.2002@gmail.com or hegde_kartik_ on instagram
 
