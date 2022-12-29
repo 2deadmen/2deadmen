@@ -2,8 +2,8 @@
    I am Kartik v Hegde pursuing my B.sc(cs) in  JSS SMI ug&pg studies Dharwad expected to complete by 2023 ,I am interested in Full-Stack development , bot development using python.My hobbies are jogging,gaming ,reading.
 
 - 🌱 Python developer
-- 🐱‍🏍 Web developer
-- 🐱‍👤 Learning react
+- 🌐 Web developer
+- 📚 MERN stack developer 
 - 👀 Interested in ML and AI
 - 📫 How to reach me: kartikhegde.2002@gmail.com or hegde_kartik_ on instagram
 
