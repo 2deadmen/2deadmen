@@ -14,7 +14,7 @@ I am Kartik v Hegde pursuing my B.sc(cs) in JSS SMI ug&pg studies Dharwad expect
 - 👯 I’m trying to get better at codethons and problem solving 
 - 💬 Ask me anything i will be happy to help
 - 📫 How to reach me: kartikhegde.2002@gmail.com
-- 📱 [panchamiassociates.com](https://panchamiassociates.com/)
+
 
 
 
