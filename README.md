@@ -2,15 +2,15 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&center=true&vCenter=true&lines=;I+am+from+West+Bengal%2C+India.;I+am+a+beginner+one+busy+with+studies.;This+is+my+hobby.;Thanks+for+checking+out+the+repositories.)](https://git.io/typing-svg) -->
 
-I am Kartik v Hegde pursuing my B.sc(cs) in JSS SMI ug&pg studies Dharwad expected to complete by 2023 ,I am interested in Full-Stack development , data science and cloud computing.My hobbies are exercising, gaming, reading manga.
+I am Kartik v Hegde pursuing my MCA in MSRIT banglore expected to complete by 2025 ,I am interested in Full-Stack development ,cloud computing and devops .My hobbies are exercising, gaming, reading manga.
    
    <h3>YES!!You can copy paste any code from here</h3>
    
 
-- 🔭 I’m currently working on DSA in Python and AWS cloud 
+- 🔭 I’m currently working on DSA in Python and c and AWS cloud 
 - 📫 I am doing good so far on leetcode trying to do better
 - 🌱 I’m currently learning concepts of DSA
-- 👯 I’m looking to collaborate on Flask,React, Php , Aws,SQL ,Java , Python Projects
+- 👯 I’m looking to collaborate on MERN, Flask,React, Php , Aws,SQL ,Java , Python Projects
 - 👯 I’m trying to get better at codethons and problem solving 
 - 💬 Ask me anything i will be happy to help
 - 📫 How to reach me: kartikhegde.2002@gmail.com
