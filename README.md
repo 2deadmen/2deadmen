@@ -7,10 +7,9 @@ I am Kartik v Hegde, MCA , MSRIT 2025 ,I am interested in Full-Stack development
    <h3>YES!!You can copy paste any code from here</h3>
    
 
-- 🔭 I’m currently working on DSA in Python and c and AWS cloud 
 - 📫 I am doing good so far on leetcode trying to do better
 - 🌱 I’m currently learning concepts of DSA
-- 👯 I’m looking to collaborate on MERN, Flask,React, Php , Aws,SQL ,Java , Python Projects
+- 👯 I’m looking to collaborate on spring boot,MERN, Flask,React, Php , Aws,SQL ,Java , Python Projects
 - 👯 I’m trying to get better at codethons and problem solving 
 - 💬 Ask me anything i will be happy to help
 - 📫 How to reach me: kartikhegde.2002@gmail.com
