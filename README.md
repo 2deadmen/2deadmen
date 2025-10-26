@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=F75C7E&center=true&vCenter=true&lines=;I+am+from+West+Bengal%2C+India.;I+am+a+beginner+one+busy+with+studies.;This+is+my+hobby.;Thanks+for+checking+out+the+repositories.)](https://git.io/typing-svg) -->
 
-I am Kartik v Hegde pursuing my MCA in MSRIT banglore expected to complete by 2025 ,I am interested in Full-Stack development ,cloud computing and devops .My hobbies are exercising, gaming, reading manga.
+I am Kartik v Hegde, MCA , MSRIT 2025 ,I am interested in Full-Stack development ,cloud computing and devops .My hobbies are exercising, gaming, reading manga.
    
    <h3>YES!!You can copy paste any code from here</h3>
    
